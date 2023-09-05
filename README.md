@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **Machine Learning, Blockchain, Frontend Development**
 
-- 📫 How to reach me **abhishekkavu@gmail.com**
+- 📫 How to reach me: **abhishekkavu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
