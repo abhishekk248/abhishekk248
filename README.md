@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Abhishek K
 
 <!--
 **abhishekk248/abhishekk248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on Python, Solidity, MySQL, PL/SQL
+🌱 I’m currently learning Deep Learning, ReactJS, Blockchain
+👯 I’m looking to collaborate on Machine Learning, Blokchain, Frontend Development
+📫 How to reach me: abhishekkavu@gmail.com
+
